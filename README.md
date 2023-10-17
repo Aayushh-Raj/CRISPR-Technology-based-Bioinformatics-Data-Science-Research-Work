@@ -4,7 +4,7 @@
 ### The Bed_file_generator python script converts the mouse-chromosome-19 guide samples txt file to a Bed file that will be used for customizing sgRNA guides over mouse genome. 
 ### The output generated from the script, which is a Bed file, has 9 columns.
   --> The first column represent the chromosome number which is 19 for my test case.
-  --> The 2nd and 3rd column represents the predicted guide positioning with respect to the genome. 
+  &#8594 The 2nd and 3rd column represents the predicted guide positioning with respect to the genome. 
   --> The 4th column represents all the guide sequences.
   --> The 5th column represents all guide consensus scoring for showing each guide's efficiency.
   --> The 6th column represents whether a guide is having a positive strand or negative strand.
